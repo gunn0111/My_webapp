@@ -1,0 +1,3 @@
+# Copy this file to local.properties and fill in your API key.
+# local.properties is gitignored and will not be committed.
+WEATHER_API_KEY=your_openweathermap_api_key_here
